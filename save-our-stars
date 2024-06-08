@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Save Our Stars - Under Lucky Stars</title>
+    <meta name="description"
+          content="SpaceX is looking to send thousands of satellites into low-Earth orbit by the end of 2020. We’re on a mission to Save Our Stars and we need your help! ">
+    <meta name="author" content="Under Lucky Stars">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@underluckystars">
+    <meta name="twitter:title" content="Save Our Stars - Under Lucky Stars">
+    <meta name="twitter:description" content="SpaceX is looking to send thousands of satellites into low-Earth orbit by the end of 2020. We’re on a mission to Save Our Stars and we need your help! ">
+    <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/twitter-preview.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Save Our Stars - Under Lucky Stars" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.underluckystars.com/save-our-stars" />
+    <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/facebook-preview.jpg" />
+    <meta property="og:description" content="SpaceX is looking to send thousands of satellites into low-Earth orbit by the end of 2020. We’re on a mission to Save Our Stars and we need your help! " />
+    <meta property="og:site_name" content="Under Lucky Stars" />
+
+            <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/30b8a55-392848b.css" />
+    
+    <link rel="canonical" href="https://www.underluckystars.com/save-our-stars" />
+
+    
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+    <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+    
+
+    <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+    <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+    <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+    <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+    <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+    <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+</head>
+<body>
+
+
+<div class="container">
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/logo.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/logo@2x.png 2x" alt="Under Lucky Stars Logo In The Night Sky" class="illustration-width-controlled">
+    </div>
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h1>Save Our Stars</h1>
+            <h4>The precious beauty of the night sky is in danger. We are asking for your help to protect it.</h4>
+
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="video-wrapper">
+            <iframe width="750" height="422" src="https://www.youtube.com/embed/Gt19O8DDNs4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <p>
+                There’s something quite magical about sitting beneath the <a href="https://www.underluckystars.com/en">night sky</a> and gazing up at the stars.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stargazing.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stargazing.jpg 2x" alt="Stargazing" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <p>
+                All year round, some 4,000 stars can be seen sparkling in the great canopy of open space above us.
+                On a clear night, you may even be able to spot constellations across the celestial sphere, representing animals, mythological beings, or inanimate objects.
+            </p>
+            <p>
+                Whether you’re an aspiring astronomer, a keen spiritualist, a nature lover, a child curious about outer space, or simply someone who likes to marvel at twinkling stars - basking in the beauty of our natural world is an experience which everyone, no matter where they are in the world, can enjoy. But for how much longer?
+            </p>
+            <p>
+                SpaceX is looking to send thousands of satellites into low-Earth orbit as part of their plan to supply broadband internet access that anyone can connect to from just about anywhere.
+            </p>
+            <p>
+                A constant and reliable internet connection, wherever you are in the world, may sound like a dream but what are we willing to sacrifice to achieve it?
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/observation.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/observation.jpg 2x" alt="Arizona's Lowell Observatory's ruined photo showing passing Starlink satellites as diagonal lines. Victoria Girgis/Lowell Observatory" class="illustration-width-controlled">
+        <section class="eight offset-by-two columns">
+            <small>This image shows the immediate impact, taken by Arizona's Lowell Observatory, the stars are clearly disrupted by diagonal lines from the trails of Starlink satellites shortly after they were launched. Photo by Victoria Girgis/Lowell Observatory</small>
+        </section>
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <p>
+                The new satellites are small, mass-produced, and orbit very close to the Earth. But their closeness to the Earth also makes them more visible. The satellites are highly reflective and could be significantly brighter than any man-made object currently in orbit.
+            </p>
+
+            <p>
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last night I observed two passes of the 60 <a href="https://twitter.com/SpaceX?ref_src=twsrc%5Etfw">@SpaceX</a> <a href="https://twitter.com/hashtag/Starlink?src=hash&amp;ref_src=twsrc%5Etfw">#Starlink</a> satellites. Though they are usually to faint to be seen with the naked eye, they flare regularly. In some cases, as this image shows, they can outshine the brightest stars in the night sky! <a href="https://t.co/DDSdYMez2u">pic.twitter.com/DDSdYMez2u</a></p>&mdash; Cees Bassa (@cgbassa) <a href="https://twitter.com/cgbassa/status/1133827825113423872?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </p>
+
+            <p>
+                SpaceX aims to launch another <strong>1,600 orbiting routers</strong> by the end of 2020. To put this into context, humanity has launched fewer than 9,000 satellites into space since the 1950s! But this is just the beginning.
+            </p>
+
+            <p>
+                SpaceX and similar companies have strong incentives to keep rapidly increasing the size of their satellite constellations over time, greatly outweighing the number of stars which can be seen by the human eye and potentially ruining our view of the night sky forever!
+            </p>
+            <p>
+                That’s why we’re on a mission to <strong>#SaveOurStars</strong>.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars3.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars3.jpg 2x" alt="Our beautiful night sky" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>What can you do?</h2>
+            <h3>1. Get loud</h3>
+            <p>
+                First of all, spread the word.
+            </p>
+            <p>
+                You can share this page and use <strong>#SaveOurStars</strong> to raise awareness of this issue, use the share buttons <span class="mobile-only">below</span> <span class="desktop-only">on the left</span> to tell your friends about our campaign.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars1.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars1.jpg 2x" alt="Our beautiful night sky" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h3>2. Sign our petition</h3>
+            <p>
+                Show your support by putting your name behind the cause. Say NO to the irresponsible practice of littering the night sky with bright, low-orbit satellites!
+            </p>
+            
+                
+                <form method="post">
+
+                <div class="row">
+                    <div class="six columns">
+                        <label for="firstName" class="required">First name</label>
+                        
+                        <input type="text" id="firstName" name="firstName" required="required" class="u-full-width" />
+                    </div>
+                    <div class="six columns">
+                        <label for="lastName" class="required">Last name</label>
+                        
+                        <input type="text" id="lastName" name="lastName" required="required" class="u-full-width" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="six columns">
+                        <label for="email">Email</label>
+                        
+                        <input type="email" id="email" name="email" placeholder="Optional" class="u-full-width" />
+                    </div>
+                    <div class="six columns">
+                        <label for="title">Job title</label>
+                        
+                        <input type="text" id="title" name="title" placeholder="Optional, in case relevant, e.g. astronomer or researcher" class="u-full-width" />
+                    </div>
+                </div>
+
+                <div class="form-check"><label>
+            <input type="checkbox" id="lastNameHidden" name="lastNameHidden" value="1" />
+            <span class="label-body">Anonymize last name</span>
+        </label></div>
+                
+                
+
+                <input class="button button-primary u-full-width" type="submit" value="Sign" />
+                <input type="hidden" id="_token" name="_token" value="rJjA-NqS4901mENVkxjd-NftrJHzaLB9rHY_fG9UhGU" /></form>
+                            <p style="text-align: center"><strong>4353</strong> people already signed! Help us to get to 5000!
+                    <br>
+
+                <svg style="width: 100%; height: auto;" viewBox="0 0 6579 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <title>Artboard</title>
+                    <desc>Created with Sketch.</desc>
+                    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <rect fill="#FFFFFF" x="0" y="0" width="6579" height="624"></rect>
+                        <rect id="Rectangle" fill="#CECECE" x="187" y="166" width="6205" height="293" rx="146.5"></rect>
+                        <rect id="Rectangle" fill="#4E62A8" x="187" y="166" width="5402.073" height="293" rx="146.5"></rect>
+                    </g>
+                </svg>
+                </p>
+
+                <h4>Last signatures</h4>
+
+                    <ul class="signatures">
+                                                <li><strong>CpjJwWHV CpjJwWHV</strong> Mr.</li>
+                                                <li><strong>CpjJwWHV C.</strong> Mr.</li>
+                                                <li><strong>CpjJwWHV C.</strong> Mr.</li>
+                                                <li><strong>CpjJwWHV C.</strong> @@rtJ8W</li>
+                                                <li><strong>CpjJwWHV C.</strong> Mr.&#039;&quot;</li>
+                                                <li><strong>CpjJwWHV C.</strong> Mr.????%2527%2522\&#039;\&quot;</li>
+                                            </ul>
+
+
+
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars2.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/stars2.jpg 2x" alt="Our beautiful night sky" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h3>3. Donate</h3>
+            <p>
+                Finally, join our fundraiser to support the <strong>International Dark Sky Association</strong>. We at <a href="https://www.underluckystars.com/en">Under Lucky Stars</a> already donated $3000 to #SaveOurStars, now it's your turn.
+            </p>
+            <p style="text-align: center">
+                <a class="button button-primary large-button" href="https://darksky.salsalabs.org/new_member_pmt_form/index.html" target="_blank">Donate Now</a>
+            </p>
+            <p style="text-align: center">
+                <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/ida-logo.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/ida-logo@2x.png 2x" alt="International Dark Sky Association Logo">
+            </p>
+            <p>
+                Your donation will help the IDA protect the beauty of night sky for generations to come.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/observatory.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/observatory.jpg 2x" alt="The view to the night sky from an observatory" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>Why are we doing this?</h2>
+            <p>
+                We are a small company called Under Lucky Stars. We make beautiful and unique <a href="https://www.underluckystars.com/en">custom star maps</a> to commemorate the most important moments of your life. E.g. your first date with the love of your life, your wedding day or the moment your baby was born.
+            </p>
+            <p>
+                Understandably, since we are all about stars, protecting the purity of our night sky is important for us. Come help us fight.
+            </p>
+            <p>
+                <em>
+                    "Why do we want to save the sky?
+                    <br><br>The crisis of massive industrial pollution of drinking water sources in the 1960s prompted the Clean Water Act of 1972 and saved our most precious resources. Corporations need boundaries. They need to be told they cannot treat our common treasures like our rivers and our night sky as their own.
+                    <br><br>And they need to know we are watching them. This is what this campaign is all about."
+                    <br><br>
+                    &mdash; Zoltan Toth-Czifra, founder of Under Lucky Stars
+                </em>
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/night-sky.jpg" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/night-sky.jpg 2x" alt="Save Our Stars" class="illustration-width-controlled">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>Just how bad is this really?</h2>
+
+            <h6>Let's get a little technical. In this section we provide additional resources and arguments.</h6>
+
+            <p>
+                Starlink satellites are <a href="https://www.theatlantic.com/science/archive/2020/02/spacex-starlink-astronomy/606169/">brighter than even Starlink themselves thought</a> they were going to be. Right now, over half of the brightest satellites in the sky are Starlink satellites and they have only launched a few hundred satellites, with plans of launching tens of thousands of satellites. While they will become dimmer after they reach their final orbits, they will still be very apparent when in non-light polluted areas. <a href="https://spacenews.com/starlink-vs-the-astronomers/">They will dim from 3rd magnitude to 5th magnitude</a>. Remember magnitudes are a log-scale.
+            </p>
+
+            <p>
+                <a href="http://www.deepskywatch.com/Articles/Starlink-sky-simulation.html">Here</a> are simulations about what the night sky will be like once the full constellation of Starlink satellites is launched. It's clear they will be all over the sky all the time. Astronomers not only take images of little patches of sky, many large astronomical surveys will be affected. These surveys image the entire sky, sometimes multiple times a night.
+            </p>
+
+            <p>
+                Satellites are not <a href="http://www.deepskywatch.com/images/articles/starlink/starlink-orbits-illumination.png">only visible at dawn and dusk</a>. Certain satellites at certain angles will be visible even in the middle of the night. Granted it is not as many as at dawn and dusk, but it will still be impactful. In addition, imaging things like comets usually happens at dawn and dusk.
+            </p>
+
+            <p>
+                Even if the albedo of the future satellites is reduced, there will an enormous impact on radio astronomy. Radio astronomy is so sensitive to Earth-based noise that cellphones and microwaves aren't allowed anywhere near Green Bank Observatory host of the Green Bank Telescope, a 100m diameter radio telescope. These satellites will be emitting in quite a few bands (10.7-12.7 GHz, 13.85-14.5 GHz, 17.8-18.6 GHz, 18.8-19.3 GHz, 27.5-29.1 GHz, and 29.5-30 GHz bands) of the radio spectrum, not just in a narrow band which makes it difficult to remove from radio data. Radio data does not quite work like taking an image, so subtracting out the effects of these Starlink satellites is near impossible. Building radio telescopes in space also isn't feasible; a 100 m dish is never going to be launched from the Earth in the near future.
+            </p>
+
+            <p>
+                So let's talk about whether world-wide internet coverage is "worth it". We don't know what Starlink's final plans for access and pricing. We don't know who will be allowed to use it. Whether or not it's a good deal should be up to public debate. Private companies cannot treat our sky as their own playground.
+            </p>
+
+            <p class="faded">
+                Some of the information in this section is courtesy of Reddit user pikabuddy11.
+            </p>
+        </section>
+    </div>
+
+
+</div>
+
+<script type="text/javascript">
+    gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+
+    fbq('trackCustom', 'Article', {article: 'save-our-stars'});
+</script>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e5fe11380fe8f00127b29d6&product=sticky-share-buttons&cms=sop' async='async'></script>
+
+
+</body>
+</html>

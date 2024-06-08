@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>How can you fight climate change? - Lifestyle change is not enough - Under Lucky Stars</title>
+    <meta name="description"
+          content="Lowering your personal emission is a good start but it's not nearly enough. Here's a guide of how to fight climate change.">
+    <meta name="author" content="Under Lucky Stars">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@underluckystars">
+    <meta name="twitter:title" content="How can you fight climate change? - Lifestyle change is not enough - Under Lucky Stars">
+    <meta name="twitter:description" content="Lowering your personal emission is a good start but it's not nearly enough. Here's a guide of how to fight climate change.">
+    <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/action@2x.png">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="How can you fight climate change? - Lifestyle change is not enough - Under Lucky Stars" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.underluckystars.com/climate" />
+    <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/action@2x.png" />
+    <meta property="og:description" content="Lowering your personal emission is a good start but it's not nearly enough. Here's a guide of how to fight climate change." />
+    <meta property="og:site_name" content="Under Lucky Stars" />
+
+            <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/40a0049-5348ad9.css" />
+    
+    <link rel="canonical" href="https://www.underluckystars.com/climate" />
+
+    
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+    <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+    
+
+    <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+    <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+    <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+    <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+    <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+    <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/logo.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/logo@2x.png 2x" alt="Under Lucky Stars Logo After Sea Level Rise" class="illustration">
+    </div>
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h1>How can you fight climate change?</h1>
+            <p>
+                At <a href="https://www.underluckystars.com/en" target="_blank">Under Lucky Stars</a> we offset our carbon footprint
+                <a href="https://www.underluckystars.com/blog/our-favorite-vantage-point-for-stargazing/" target="_blank">every year</a>.
+                We encourage you to <a href="https://www.coolearth.org/" target="_blank">do the same</a> with your personal CO2 emission and
+                convince your place of employment to do so, too.
+            </p>
+            <p>
+                But we know it's not enough.
+            </p>
+            <p>
+                We decided to prepare this guide to make you more effective in fighting the climate crisis.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>Reducing your emission is not enough</h2>
+            <p>
+                If you have been trying to save power, flying less frequently, buying locally produced goods, eating
+                less
+                meat or perhaps you drive an electric car &mdash; kudos to you.
+            </p>
+            <p>
+                However, you should know that those acts, while certainly help, will not be enough to mitigate the
+                effects
+                of climate change. <a href="https://time.com/5669071/lifestyle-changes-climate-change/" target="_blank">Not
+                    by a long shot</a>.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/protest.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/protest@2x.png 2x" alt="Protest Against Climate Change" class="illustration">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>What will make the real difference?</h2>
+            <p>
+                The massive systemic changes required to reduce greenhouse gas emissions have to come from governments,
+                because
+                they have the power to affect all major emitters uniformly. The kind of change we need is a political one;
+                lifestyle changes of concerned individuals
+                will not cut it.
+            </p>
+            <p>
+                That's why <a href="https://www.youtube.com/watch?v=VFkQSGyeCWg" target="_blank">Greta is amazing</a>.
+                Our generation needs a face, a role model, an idol &mdash; an MLK of
+                our time &mdash; to embody the political power we have to build up.
+            </p>
+            <p>
+                To apply pressure on the decision makers, protesting is a great start. However, <a
+                        href="https://qz.com/901411/political-protests-are-effective-but-not-for-the-reason-you-think/"
+                        target="_blank">protesting is only effective if it leads to more effective
+                    political engagement</a>, like <a
+                        href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-2508.2005.00357.x" target="_blank"
+                >voting</a> and <a
+                        href="https://sociology.stanford.edu/sites/default/files/publications/friends_or_foes-how_social_movement_allies_affect_the_passage_of_legislation_in_the_u._s._congress.pdf"
+                        target="_blank">lobbying</a>. So let's talk about what need to vote and lobby for.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/crossroads.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/crossroads@2x.png 2x" alt="Crossroads With A Fossil Fuel Truck And An Electric Car" class="illustration">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>Policy that works</h2>
+            <p>
+                Luckily, we have a policy solution to mitigate the effects of climate change. In fact, it's
+                so powerful, it <a
+                        href="http://environment.yale.edu/news/article/william-nordhaus-wins-nobel-prize-for-economics-of-climate-change/"
+                        target="_blank">won a Nobel Prize</a>. It's called <a href="https://en.wikipedia.org/wiki/Carbon_price" target="_blank">carbon
+                    pricing</a>.
+
+            </p>
+            <p>
+                The basic idea is simple: apply the cost of carbon emissions to the emitters &mdash; in manufacturing, construction,
+                energy production, agriculture, etc &mdash; in form of a tax, and then distribute the proceeds among the citizens
+                in form of a carbon dividend.
+            </p>
+            <p>
+                Thus far, the costs of carbon emissions have been paid by the society and not the emitters, effectively
+                subsidizing emission. Think health care spend, climate related disasters, agricultural impact, etc.
+                According to <a
+                        href="https://www.theatlantic.com/science/archive/2019/05/how-much-does-world-subsidize-oil-coal-and-gas/589000/"
+                        target="_blank">IMF research</a>, most of the $5.2 trillion in subsidies
+                for fossil fuels come from not taxing carbon as we should. The cost associated with these
+                <em>negative externalities</em> is expected to rise sharply in the following years.
+            </p>
+            <p>
+                There is a consensus among <a
+                        href="http://bush.tamu.edu/istpp/scholarship/journals/ClimateScientistsPerspectives_ClimaticChange.pdf"
+                        target="_blank">scientists</a> and <a
+                        href="http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf" target="_blank"
+                >economists</a> that carbon tax is the most effective solution in mitigating climate change &mdash; an
+                agreement as strong as <a
+                        href="http://climate.nasa.gov/scientific-consensus/" target="_blank">the
+                    consensus among climatologists</a> that human activity is responsible for global warming.
+            </p>
+
+            <p>
+                The U.S. <a
+                        href="https://www.nap.edu/download/21712" target="_blank">National Academy
+                    of Sciences, one of the most respected scientific bodies in the world, has also called for a carbon
+                    tax</a>.  There is general agreement among economists
+                on carbon taxes whether you consider <a
+                        href="http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf" target="_blank"
+                >economists with expertise in climate economics</a>, <a
+                        href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.381.484&amp;rep=rep1&amp;type=pdf"
+                        target="_blank">economists with expertise in resource economics</a>, or <a
+                        href="https://www.researchgate.net/profile/Doris_Geide-Stevenson/publication/261884738_Consensus_Among_Economists-An_Update/links/56a7f3fa08ae860e0255a8e3.pdf"
+                        target="_blank">economists from all sectors</a>. It is literally <a
+                        href="http://www2.econ.iastate.edu/classes/econ101/herriges/Lectures10/Chapter%2017H%20-%20Externalities.pdf"
+                        target="_blank">Econ 101</a>.
+            </p>
+
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/scientists.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/scientists@2x.png 2x" alt="Climate Scientists For Carbon Tax" class="illustration">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <p>
+            <h2>Money in your pocket</h2>
+
+            Putting the
+            price <a href="https://www.wsj.com/articles/SB10001424127887323611604578396401965799658" target="_blank"
+            >upstream</a> where the fossil fuels enter the market makes it simple,
+            easily enforceable, and bureaucratically lean. Returning the revenue as an equitable dividend &mdash;
+            cash in your pocket &mdash; <a
+                    href="http://www.nber.org/papers/w9152.pdf" target="_blank">offsets any
+                regressive effects of the tax</a>.
+            </p>
+            <p>
+                In fact, <a
+                        href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081648#s7" target="_blank"
+                >~60% of the public would receive more in dividend than they paid in
+                    tax</a>. This, in turn, allows for a higher carbon price (which <a
+                        href="https://www.worldscientific.com/doi/pdf/10.1142/S201000781840002X" target="_blank"
+                >is what matters for climate mitigation</a>) because <a
+                        href="http://www.apnorc.org/projects/Pages/Is-the-Public-Willing-to-Pay-to-Help-Fix-Climate-Change-.aspx"
+                        target="_blank">the public isn't willing to pay anywhere near what's
+                    needed otherwise</a>.
+            </p>
+            <p>
+                Enacting a <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2026879" target="_blank"
+                >border tax</a> would protect domestic businesses from foreign
+                producers not saddled with similar pollution taxes, and also <a
+                        href="http://ageconsearch.umn.edu/handle/205761" target="_blank">incentivize
+                    those countries</a> to enact their own.
+            </p>
+            <p>
+                <a
+                        href="https://www.sciencedaily.com/releases/2019/08/190827111120.htm" target="_blank"
+                >A carbon tax is expected to spur innovation</a> and change the financial incentives
+                of using renewable energy versus fossil fuels so that companies are motivated
+                to invest in green energy and reduction in emissions.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/money-tree.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/money-tree@2x.png 2x" alt="Money Tree" class="illustration">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>
+                The cost of inaction
+            </h2>
+            <p>
+                <a href="http://rdcu.be/cLYO" target="_blank">Conservative estimates</a> are
+                that failing to mitigate climate change will cost us 10% of GDP over 50 years, <a
+                        href="http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf" target="_blank"
+                >starting about now</a>. In contrast, carbon taxes may actually
+                <em>boost</em> GDP, if the revenue is <a
+                        href="http://www.theguardian.com/environment/climate-consensus-97-per-cent/2014/jun/13/how-revenue-neutral-carbon-tax-creates-jobs-grows-economy"
+                        target="_blank">returned as an equitable dividend to households</a> (the
+                <a href="http://www.econ2.jhu.edu/people/ccarroll/papers/cstwMPC.pdf" target="_blank"
+                >poor tend to spend money when they've got it</a>, which <a
+                        href="https://www.imf.org/external/pubs/ft/sdn/2015/sdn1513.pdf" target="_blank"
+                >boosts economic growth</a>) not to mention <a
+                        href="https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/publications/1-7729354/Yamazaki_CarbonTax_JEEM_2017.pdf"
+                        target="_blank">create jobs</a> and <a
+                        href="https://globalchange.mit.edu/news-media/jp-news-outreach/shift-renewable-electricity-win-win-statewide-level"
+                        target="_blank">save lives</a>.
+            </p>
+
+            <p>
+                Taxing carbon <a href="http://www.imf.org/external/pubs/ft/wp/2015/wp15105.pdf" target="_blank"
+                >is in each nation's own best interest</a> (it <a
+                        href="https://www.nature.com/articles/s41467-019-09499-x" target="_blank">saves
+                    lives at home</a>) and <a
+                        href="https://openknowledge.worldbank.org/bitstream/handle/10986/29687/9781464812927.pdf?sequence=5&amp;isAllowed=y"
+                        target="_blank">many nations have already started</a>, which <a
+                        href="http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf" target="_blank"
+                >can have knock-on effects in other countries</a>. In poor countries, <a
+                        href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_summary-for-policymakers.pdf"
+                        target="_blank">taxing carbon is progressive even <em>before</em>
+                    considering smart revenue uses, because only the "rich" can afford fossil fuels</a> in the first place.
+            </p>
+            <p>
+                We <a href="http://news.mit.edu/2016/carbon-tax-stop-using-fossil-fuels-0224" target="_blank"
+                >won&rsquo;t wean ourselves off fossil fuels without a carbon tax</a>,
+                the <a href="http://rdcu.be/cZjG" target="_blank">longer we wait to take
+                    action the more expensive it will be</a>. Each year we delay costs <a
+                        href="https://cla.umn.edu/heller-hurwicz/news-events/news/policy-brief-calibrating-price-climate-risk"
+                        target="_blank">~$900 billion</a>.
+            </p>
+
+            <p>
+                <a href="https://www.sciencedirect.com/science/article/pii/S0095069698910580" target="_blank"
+                >It's the smart thing to do</a>, and the IPCC report made clear <a
+                        href="https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/SR15_TS_High_Res.pdf" target="_blank"
+                >pricing carbon is <strong>necessary</strong> if we want to meet our 1.5
+                    &ordm;C target</a>.
+            </p>
+
+            <p>
+                Contrary to <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance#Examples" target="_blank"
+                >popular belief</a> the main barrier isn't lack of public
+                support. But <a href="https://en.wikipedia.org/wiki/Diffusion_of_responsibility" target="_blank"
+                >we can't keep hoping others will solve this problem for us</a>.
+                We need to take the necessary steps to make this dream a reality.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/map.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/map@2x.png 2x" alt="Countries Who Implemented Or Plan To Implement Carbon Tax" class="illustration">
+    </div>
+
+    <div class="row">
+        <section class="eight offset-by-two columns">
+            <h2>
+                Take action
+            </h2>
+            <p>
+                <a href="https://citizensclimatelobby.org/join-citizens-climate-lobby/?tfa_3590416195188=reddit-CarbonTax&amp;utm_source=underluckystars&amp;utm_medium=referral&amp;utm_campaign=underluckystars"
+                   target="_blank"><strong>Lobby</strong></a> for the change we need. <a
+                        href="https://sociology.stanford.edu/sites/default/files/publications/friends_or_foes-how_social_movement_allies_affect_the_passage_of_legislation_in_the_u._s._congress.pdf"
+                        target="_blank">Lobbying works</a>, and you <a
+                        href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1016.1967&amp;rep=rep1&amp;type=pdf"
+                        target="_blank">don't need a lot of money to be effective</a> (though it
+                does help to <a
+                        href="http://www.congressfoundation.org/storage/documents/CMF_Pubs/cmf-citizen-centric-advocacy.pdf"
+                        target="_blank">educate yourself on effective tactics</a>). If you're too
+                busy to go through the <a href="https://citizensclimatelobby.org/new-member/#climateadvocatetraining"
+                                          target="_blank">free training</a>, sign up for <a
+                        href="https://citizensclimatelobby.org/text/" target="_blank">text
+                    alerts</a> to join coordinated call-in days (<a
+                        href="http://www.congressfoundation.org/storage/documents/CMF_Pubs/cmf-citizen-centric-advocacy.pdf"
+                        target="_blank">it works</a>) or set yourself a monthly reminder to <a
+                        href="https://www.ted.com/talks/omar_ahmad_political_change_with_pen_and_paper?language=en"
+                        target="_blank">write a letter</a> to your elected officials. According to
+                NASA climatologist and climate activist <a href="https://en.wikipedia.org/wiki/James_Hansen"
+                                                           target="_blank">Dr. James
+                    Hansen</a>, becoming an <a
+                        href="https://citizensclimatelobby.org/join-citizens-climate-lobby/?tfa_3590416195188=reddit-CarbonTax&amp;utm_source=reddit&amp;utm_medium=referral&amp;utm_campaign=CarbonTax"
+                        target="_blank">active volunteer with Citizens' Climate Lobby</a> is <a
+                        href="https://www.youtube.com/watch?v=q4DAW1A6Ca8" target="_blank">the
+                    most important thing you can do for climate change</a>, and <a
+                        href="https://en.wikipedia.org/wiki/Michael_E._Mann" target="_blank">climatologist
+                    Dr. Michael Mann</a> calls its <a href="https://en.wikipedia.org/wiki/Carbon_fee_and_dividend"
+                                                      target="_blank">Carbon Fee &amp;
+                    Dividend</a> policy <a
+                        href="https://www.usatoday.com/story/opinion/2019/06/03/climate-change-requires-collective-action-more-than-single-acts-column/1275965001/"
+                        target="_blank">an example of sort of visionary policy that's needed</a>.
+            </p>
+            <p>
+                Besides <a href="https://www.sunrisemovement.org/" target="_blank">protesting</a>, lobbying, and voting, the best you can do is to educate yourself and your peers.
+                Spread the word, talk about climate change and carbon tax to your friends, family, and colleagues.
+                <a href="https://www.pnas.org/content/116/30/14804">
+                    Talking to people about climate change is an effective way to increase acceptance of the science.
+                </a>
+            </p>
+            <p>
+                We have a plan, we just need to get our decision makers to execute it.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/action.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/climate/action@2x.png 2x" alt="Climate Action" class="illustration">
+    </div>
+
+    <div class="row">
+        <div class="eight offset-by-two columns" style="margin-top: 4rem; text-align: center">
+            <p class="faded">
+                Thanks to ILikeNeurons for the research.
+            </p>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+</script>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5dba1b2a78be7d00133200ac&product=sticky-share-buttons' async='async'></script>
+
+
+</body>
+</html>

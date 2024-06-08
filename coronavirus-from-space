@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Coronavirus from Space - Under Lucky Stars</title>
+    <meta name="description"
+          content="On March 9, 2020 Italy imposed a nationwide lockdown to combat COVID-19. We looked at satellite pictures of Milan before and after the lockdown to see how the city changed looking at it from space.">
+    <meta name="author" content="Under Lucky Stars">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@underluckystars">
+    <meta name="twitter:title" content="Coronavirus from Space - Under Lucky Stars">
+    <meta name="twitter:description" content="On March 9, 2020 Italy imposed a nationwide lockdown to combat COVID-19. We looked at satellite pictures of Milan before and after the lockdown to see how the city changed looking at it from space.">
+    <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/twitter-preview.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Coronavirus from Space - Under Lucky Stars" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.underluckystars.com/coronavirus-from-space" />
+    <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/facebook-preview.jpg" />
+    <meta property="og:description" content="On March 9, 2020 Italy imposed a nationwide lockdown to combat COVID-19. We looked at satellite pictures of Milan before and after the lockdown to see how the city changed looking at it from space." />
+    <meta property="og:site_name" content="Under Lucky Stars" />
+
+            <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/b87a567-fa2a108.css" />
+    
+    <link rel="canonical" href="https://www.underluckystars.com/coronavirus-from-space" />
+
+    
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+    <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+    
+
+    <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+    <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+    <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+    <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+    <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+    <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <img id="logo" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/logo.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/save-our-stars/logo@2x.png 2x" alt="Under Lucky Stars Logo In The Night Sky" class="illustration-width-controlled">
+    </div>
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <h1>Coronavirus from Space</h1>
+            <h4>We looked at how the fight against COVID-19 changed the face of Milan, Italy as seen from space.</h4>
+        </section>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Italy was the first country to declare nationwide lockdown to combat the spread of coronavirus. The country
+                has been isolated and citizens' mobility restricted since the 9th of March.
+            </p>
+            <p>
+                Normally,
+                at Under Lucky Stars we look at the sky from Earth, <a href="https://www.underluckystars.com/en">mapping constellations</a>.
+                But this time we decided
+                to turn it upside down and look back at Earth from the sky above to see how Milan, the largest
+                city in Northern Italy has changed
+                since it started its heroic combat with COVID-19.
+            </p>
+            <p>
+                We acquired satellite imagery from the Pleiades
+                satellites from September 21, 2019 as well as March 16, 2020. We picked a few important and interesting
+                places to contrast them pre- and post-coronavirus.
+            </p>
+            <p>
+                Perhaps the most striking contrast is Piazza del Duomo, the square in front of Milan's iconic cathedral.
+                Usually buzzing with tourists, the famous square looks completely empty in March. The glass dome at the top of the picture
+                is Italy's oldest shopping Galleria Vittorio Emanuele II, also closed due to the outbreak.
+            </p>
+            <p>Use the slider in the middle to compare the left and right side of the image.</p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/cathedral-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/cathedral-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Piazza Castello is the square in front of Milan's 15th century Sforza Castle. The surroundings of the
+                fountain and the castle garden used to buzz with tourists headed to one of the several museums
+                housed in the castle buildings.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/castle-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/castle-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Milan is the country's industrial and financial center generating 10% of the national GDP.
+                While some essential commerce is still ongoing, the difference in traffic on the major
+                highways is noticeable. The two pictures were taken around the same time at 10:30 in the morning.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/intersection-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/intersection-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                The name of La Scala will ring familiar to any opera lover. The cozy little square in front of the
+                World-famous 18th century theatre is another popular spot for visitors. Notice the lack of people
+                and cars on the picture from March.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/opera-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/opera-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Corso Como (top left) is one of Milan's many shopping & dining streets. Italy closed its restaurants and bars
+                as well as most shopping centers as a response to the outbreak. The missing sun shades of the restaurants
+                on the March photo makes this visible from space. On the bottom right of the picture usually busy
+                avenue Bastioni di Porta Nuova appears deserted. "The situation is surreal" &mdash; says our friend
+                Francesco, who is currently on lockdown in Milan.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/shopping-street-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/shopping-street-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Milan's largest train station Milano Centrale has become a screening point of incoming passengers.
+                The reduced traffic is obvious even observed from space. Parking lots in front of the main building
+                look empty. Notice the lack of buses on the March picture on the right side of the building. This
+                is where shuttle buses from Bergamo airport used to arrive. Almost all flights have been canceled now
+                at Bergamo, although some still fly from Milan's other airport, Malpensa.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/train-station-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/train-station-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <p>
+                Finally, zooming out in space might help us zoom out in time too. Looking from far above, you don't
+                see big changes. The walls are still standing, the city looks peaceful. People of Italy are strong
+                and when the hard days are over (and they will be over), Milanese will be ready to take back the
+                streets of this wonderful city from the virus and appreciate them more than ever before.
+            </p>
+        </section>
+    </div>
+
+    <div class="row">
+        <div class="comparison-container">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/city-a.jpg" alt="">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/coronavirus-milan/city-b.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <h2>How can you help?</h2>
+            <p>
+                There is a lot of public funding going into coronavirus response right now. If you are not a medical
+                professional, the best you can do is to distance yourself socially as much as you can to slow the spread
+                in your community and follow the instructions of the health officials. "It's a sacrifice we have to adopt" &mdash; says Francesco, our friend in Milan.
+            </p>
+            <p>
+                You can also help research by joining a massive crowd computing effort that uses spare capacity of your
+                computer to run disease research calculations. Find out more at
+                <a href="https://foldingathome.org/2020/03/15/coronavirus-what-were-doing-and-how-you-can-help-in-simple-terms/">Folding@Home</a>.
+            </p>
+            <p>Finally, if you can, donate to the WHO's COVID-19 Solidarity Response Fund.</p>
+            <p style="text-align: center">
+                <a class="button button-primary large-button" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate" target="_blank">Donate Now</a>
+            </p>
+            <p>
+                Your donation will help countries prevent, detect, and manage the novel coronavirus – particularly those where the needs are the greatest.
+            </p>
+        </section>
+    </div>
+
+    <div class="row text-row">
+        <section class="eight offset-by-two columns">
+            <h2>What is Under Lucky Stars?</h2>
+            <p>
+                We are a small company called Under Lucky Stars. We make beautiful and unique <a href="https://www.underluckystars.com/en">custom star maps</a> to commemorate the most important moments of your life. E.g. your first date with the love of your life, your wedding day or the moment your baby was born.
+            </p>
+        </section>
+    </div>
+
+</div>
+
+    <script crossorigin="anonymous" type="text/javascript" src="https://d3j4c7e2o820k1.cloudfront.net/js/57477db-ed99c1a.js"></script>
+
+<script type="text/javascript">
+    gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+
+    fbq('trackCustom', 'Article', {article: 'coronavirus-from-space'});
+</script>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e5fe11380fe8f00127b29d6&product=sticky-share-buttons&cms=sop' async='async'></script>
+
+
+</body>
+</html>

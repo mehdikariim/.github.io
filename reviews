@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>⭐️ Reviews - Under Lucky Stars</title>
+        <meta name="description" content="Reviews and opinions from our previous customers."/>
+                
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@400&display=swap" rel="stylesheet">
+
+                                <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/454a62b-cc31bc9.css" />
+                
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="/manifest.json">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="p:domain_verify" content="a8500106e5f0a9916dbba166430c68be"/>
+
+                <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@underluckystars">
+        <meta name="twitter:title" content="Under Lucky Stars">
+        <meta name="twitter:description" content="We make beautiful star maps showing the alignment of the stars in a place and date chosen by you. Birthday, engagement, first date.">
+        <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/examples/1@2x.png">
+        
+                <!-- Open Graph data -->
+        <meta property="og:title" content="Under Lucky Stars" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://www.underluckystars.com/en/reviews" />
+        <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/examples/1@2x.png" />
+        <meta property="og:description" content="We make beautiful star maps showing the alignment of the stars in a place and date chosen by you. Birthday, engagement, first date." />
+        <meta property="og:site_name" content="Under Lucky Stars" />
+        
+        <link rel="canonical" href="https://www.underluckystars.com/en/reviews" />
+
+        <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "lwgnlz24zi");
+</script>
+
+
+        
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+        <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+        <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+        
+
+        <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+        <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+        <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+        <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+        <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+        <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+        <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+    </head>
+    <body >
+
+                <div id="content-wrapper">
+
+        <div id="top-promo">
+        ✨ Enjoy up to <span class="top-promo-discount">38%</span> off and free shipping!    </div>
+    <script>
+        document.body.classList.add('top-promo-on');
+    </script>
+
+<div id="desktop-header">
+    <div id="desktop-header-content">
+        <a id="logo" href="/en/">
+            <img id="logo-image" src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/logo-new-trademark@2x.png" />
+        </a>
+        <div id="menu">
+            <a href="/en/how-it-works">How it works</a>
+
+            <a href="/en/reviews">Reviews</a>
+
+            <a class="unimportant" href="/en/astronomically-verified">Astronomically Verified</a>
+
+            <a href="/en/faq">FAQ</a>
+
+            <a href="/en/contact-us-form">Contact Us</a>
+        </div>
+            <a class="cart-indicator-placeholder" href="/en/your-cart" title="Your Cart" style="display: none"></a>
+
+<script type="text/javascript">
+    (function() {
+        function updateBody(rootElement) {
+            if (rootElement.querySelector('.cart-indicator-icon-item-count')) {
+                document.body.classList.add('cart-has-items');
+            } else {
+                document.body.classList.remove('cart-has-items');
+            }
+        }
+
+        window.uls = window.uls || {};
+        if (window.uls.cartIconListenerAttached) {
+            return;
+        }
+        window.uls.cartIconListenerAttached = true;
+
+        function update() {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/en/cart-icon', true);
+            xhr.onload = function () {
+                var container = document.createElement('div');
+                container.innerHTML = this.responseText;
+                var rootElement = container.firstElementChild;
+
+                if (!rootElement) {
+                    return;
+                }
+
+                var placeholders = document.querySelectorAll('.cart-indicator-icon, .cart-indicator-placeholder');
+                for (var i = 0; i < placeholders.length; i++) {
+                    var placeholder = placeholders[i];
+                    if (i > 0) {
+                        rootElement = rootElement.cloneNode(true);
+                    }
+                    placeholder.parentNode.insertBefore(rootElement, placeholder);
+                    placeholder.parentNode.removeChild(placeholder);
+                }
+
+                updateBody(rootElement);
+            };
+
+            xhr.send();
+        }
+
+        window.addEventListener('pageshow', update);
+        window.setInterval(update, 10000);
+
+        updateBody(document);
+    }());
+
+</script>
+
+    </div>
+</div>
+
+<div id="menu-bar">
+    <div id="menu-logo">
+        <a href="/en/">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/small-logo-black.svg" alt="Under Lucky Stars" />
+            <img id="menu-logo-color" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/small-logo-color.svg" alt="Under Lucky Stars" />
+        </a>
+    </div>
+    <h2 id="brand">
+        <a href="/en/">
+            Under Lucky Stars<span>&reg;</span>
+        </a>
+    </h2>
+
+        <a class="cart-indicator-placeholder" href="/en/your-cart" title="Your Cart" style="display: none"></a>
+
+<script type="text/javascript">
+    (function() {
+        function updateBody(rootElement) {
+            if (rootElement.querySelector('.cart-indicator-icon-item-count')) {
+                document.body.classList.add('cart-has-items');
+            } else {
+                document.body.classList.remove('cart-has-items');
+            }
+        }
+
+        window.uls = window.uls || {};
+        if (window.uls.cartIconListenerAttached) {
+            return;
+        }
+        window.uls.cartIconListenerAttached = true;
+
+        function update() {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/en/cart-icon', true);
+            xhr.onload = function () {
+                var container = document.createElement('div');
+                container.innerHTML = this.responseText;
+                var rootElement = container.firstElementChild;
+
+                if (!rootElement) {
+                    return;
+                }
+
+                var placeholders = document.querySelectorAll('.cart-indicator-icon, .cart-indicator-placeholder');
+                for (var i = 0; i < placeholders.length; i++) {
+                    var placeholder = placeholders[i];
+                    if (i > 0) {
+                        rootElement = rootElement.cloneNode(true);
+                    }
+                    placeholder.parentNode.insertBefore(rootElement, placeholder);
+                    placeholder.parentNode.removeChild(placeholder);
+                }
+
+                updateBody(rootElement);
+            };
+
+            xhr.send();
+        }
+
+        window.addEventListener('pageshow', update);
+        window.setInterval(update, 10000);
+
+        updateBody(document);
+    }());
+
+</script>
+
+
+    <a id="hamburger-menu-icon">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/hamburger-menu.svg" alt="Menu" />
+    </a>
+    <a id="hamburger-menu-close-icon">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/hamburger-menu-close.svg" alt="Close" />
+    </a>
+</div>
+
+
+        <section>
+
+        <h1>Reviews (Page 1 of many)</h1>
+
+        <p>Here are some of the most recent reviews from our dear customers to help you decide whether we deserve your trust.</p>
+
+        <p>
+            Already a customer?            <a href="https://www.trustpilot.com/evaluate/underluckystars.com">Rate Us On Trustpilot</a>
+        </p>
+    </section>
+
+    <section id="reviews">
+
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Joanna</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/664c94809eca502cabf31b2e" target="_blank">
+                                                    May 21, 2024 at 2:33 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Wonderful star map and fantastic service. They went above and beyond to fix a mistake I made and get the map redelivered in time for a family wedding. I'm so grateful and this will be a really unique, thoughtful gift.
+Thanks so much!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/c824d71a9c65342e144195d79e80243f.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>John Ed Cashman</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6645256cd12d406ce998e06b" target="_blank">
+                                                    May 15, 2024 at 11:13 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Fabulous product. I could not be happier with the way it was delivered...the packaging was very strong. When I placed the order I also ordered the black frame. The frame is very strong and it is also a good size.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/d472cf7d287b26b096262649bfe5e2e4.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Jim Smith</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65d8c5d8e2f69dbe87adacd2" target="_blank">
+                                                    February 23, 2024 at 6:20 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               The product is impeccable. Got exactly what i wanted in a gorgeous frame! Complete hit with my wife!!!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/e7e03f292cb44a329b6832bf8ed55c83.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>veronica weinberg</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65cf79cf35ee6d1b5099c173" target="_blank">
+                                                    February 16, 2024 at 5:05 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               Thank for my perfect present &#x2661;&#x2661;&#x2661;. 
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Ali Fakih</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65ce3f72d7025eb0590396e1" target="_blank">
+                                                    February 15, 2024 at 6:44 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Hands down. I almost never write reviews but you guys are ridiculously good. I ordered the 4th of February night and it was delivered the early morning on Valentines day. At first I accidently made a double order, and the customer service team resolved the issue one hour after I had emailed them.
+
+This is my second time I order and you guys never ever disappoint. I will deliver the star map tomorrow night and I'm sure the recipients will love it. Everything with this company is on point.
+- You keep your promises
+- You keep evolving and offering new options
+- Your prices are reasonable
+- Your customer service is second to none
+- Your website is simple yet professional
+
+Biggest props to the customer service team!
+            </div>
+        </div>
+
+                    <div class="review-more">Design your star map <a href="/en/">here</a></div>
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Kelly</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65ad70202e35b0e782c705b3" target="_blank">
+                                                    January 21, 2024 at 9:27 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               I love Under Lucky Stars! I had one made for my son and his fianc&#xE9;s engagement with the date, place etc. They love it!! I love Under Lucky Stars
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Dejan</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65ad280da73ee1281297dec4" target="_blank">
+                                                    January 21, 2024 at 4:19 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Very much deserved 5 stars :). A very meaningful idea & product, simple and easy ordering process, and even great customer support and experience - perfect. :)
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/cd998f0cc3b30e5c0fba53756f9ac75f.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Robin Queen</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65972a66cdca3a4d0ac51936" target="_blank">
+                                                    January 5, 2024 at 12:00 AM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               LOVE LOVE LOVE these maps! I have purchased 3 to date and will certainly purchase more for gifts! Customer service is exceptional, I couldn't locate my confirmation email and within an hour of reaching out, I received a reply along with the tracking information. This is why I needed the info, it's the stars from that day
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/3a303a9635d99c21ce83378dc9d73b47.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Ioana Alexandra</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65903f8d332f26115da1a947" target="_blank">
+                                                    December 30, 2023 at 6:04 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Great unique present. They never disappoint. This was the second time I have ordered a star map and both times I was happy with my purchase. I would recommend it as a unique gift.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/f725e79a7c3233162fdb27f563f498f2.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Ian Hind</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/658330a8c09c8b6cce5a9e96" target="_blank">
+                                                    December 20, 2023 at 8:21 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               The consolation was perfect! My wife absolutely loved how thoughtful this was and the size was just right!!!
+            </div>
+        </div>
+
+                    <div class="review-more">Design your star map <a href="/en/">here</a></div>
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/a711f83e6954acc0aab9236339a42e50.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Maribeth Richardson</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6574debd0dd5e1ba27d72b9c" target="_blank">
+                                                    December 9, 2023 at 11:40 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               It came in faster than i expected. It is beautiful.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Tony</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65745e70e036c4129b996257" target="_blank">
+                                                    December 9, 2023 at 2:32 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               The service was excellent. We had a problem with the delivery and service personnel was concise and curteous. They fixed the issue quickly. The quality of the print is very very good. Thick paper and the container for the print was superb.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/6734e0ab9b5f5ac71609ebb4c2ecb3e7.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Kornis László</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6571f1dc09daef9c6a643de5" target="_blank">
+                                                    December 7, 2023 at 6:25 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               Truly amazing product, great service and kind customer support!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Helen Hassebroek</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65481230230f588625d3cd02" target="_blank">
+                                                    November 6, 2023 at 12:07 AM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               I got this for my husband that has&#x2026;everything. I got this for my husband that has everything for our 45th anniversary. I love the fast delivery , well made and unique gift!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Julie</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6543cf9672ae180440be8c47" target="_blank">
+                                                    November 2, 2023 at 6:34 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               This is the second time I have ordered a star chart. It is such a wonderful momento to remember a special date and time. Always unique!
+            </div>
+        </div>
+
+                    <div class="review-more">Design your star map <a href="/en/">here</a></div>
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Branden Harris</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/654395c21f136124a3efd856" target="_blank">
+                                                    November 2, 2023 at 2:27 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               I got this for my daughter and she loves it. The quality is as good as it gets, and the star map is beautiful. I got the framed map and I couldn't be happier
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/1c24f696eb6e4b637f5712d9c816d6b4.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Holly Giddings</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/65436ad96de8f8df8362dcc0" target="_blank">
+                                                    November 2, 2023 at 11:24 AM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               What a gem of a gift. I ordered my star map, without really checking out the company (saw the advert on Facebook and took a chance). And it is superb. The quality, the star map itself - absolutely stunning. Thank you so much
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/88e1a0462cb4f0948bb720fac29b9523.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Emmy</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/653fd2b9274a8492d43d283f" target="_blank">
+                                                    October 30, 2023 at 5:58 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Amazing quality and service! I participated in a quiz competition, and won! I got a beautiful digital PDF, and they even made some last-minute edits after my submission to make the text look great. All in all, an excellent experience!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/d4adcfcca78088b08d57814b28dc1034.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>freddy quintero</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/650f1d097e7d650fa964b882" target="_blank">
+                                                    September 23, 2023 at 7:14 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               Really good, simple and nice.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Nicole</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/650de94e56f43d075f9d93d5" target="_blank">
+                                                    September 22, 2023 at 9:21 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               This is my second time ordering and they went out of their way to complete the order as I wanted it. 10/10
+            </div>
+        </div>
+
+                    <div class="review-more">Design your star map <a href="/en/">here</a></div>
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>David Little</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6507249e3f38bc43075205e4" target="_blank">
+                                                    September 17, 2023 at 6:09 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               It looks amazing and my wife loves it. They took their time to make sure everything was done right.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Josh</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/6502028bc379d9a7b5941c64" target="_blank">
+                                                    September 13, 2023 at 8:42 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               Great product, exactly as advertised. My fiance loved it
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/6b01039dfa85b5fccf2ef91de1b45274.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Mary Sunshine</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/64ecc82175ff767de75b02dd" target="_blank">
+                                                    August 28, 2023 at 6:15 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               This is the best gift I&#x2019;ve ever purchased for my son who has everything. Hubby says it&#x2019;s awesome and he rarely comments on gifts. I purchased this for a Christmas gift. And it&#x2019;s only August. But this way I didn&#x2019;t have to deal with the Christmas rush. This is quite the unusual and personalized gift anyone can purchase for someone they love. Highly recommended.
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/empty-avatar.svg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Dani</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/64ebaabaa562567b00d77b88" target="_blank">
+                                                    August 27, 2023 at 9:57 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text small">
+               Perfect Gift for My Wife. I ordered a star map as a gift for my wife, and it arrived exactly one week later. The map is printed on strong, high-quality material. The colors are vibrant, and the lines are crisp and clear. My wife absolutely loved it!
+            </div>
+        </div>
+
+        
+    
+        <div class="review">
+            <div class="profile">
+                <div class="profile-photo">
+                    <img src="https://d1tcpqtzfohdid.cloudfront.net/reviewphotos/0bdd58dcb4388bab34e3aa9e33940184.jpg" />
+                </div>
+                <div class="profile-text">
+                    <div class="profile-name">
+                        <strong>Parvathy Prakash</strong>
+                        reviewed
+                        <strong>Under Lucky Stars</strong> &ndash; <span class="stars trustpilot-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
+                    </div>
+                    <div class="date">
+                                                <a href="https://www.trustpilot.com/reviews/64e8e6607075d3473b616bb1" target="_blank">
+                                                    August 25, 2023 at 7:35 PM
+                                                                                    &mdash; Source: <span class="review-source">TrustPilot</span>                                                    </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="text large">
+               Wonderful gift. I gifted the star map to my husband on our anniversary and it turned out to be very nice.
+            </div>
+        </div>
+
+                    <div class="review-more">Design your star map <a href="/en/">here</a></div>
+        
+    
+
+        <ul class="pagination">
+                            <li class="active">
+                    <a href="/en/reviews">1</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/2">2</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/3">3</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/4">4</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/5">5</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/6">6</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/7">7</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/8">8</a>
+                </li>
+                            <li >
+                    <a href="/en/reviews/9">9</a>
+                </li>
+                        <li class="more-dots">
+                <a href="#" onclick="return false;">...</a>
+            </li>
+        </ul>
+
+    </section>
+
+    <script type="text/javascript">
+        gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+    </script>
+
+
+    <footer>
+    <div id="footer-links">
+        <div class='footer-section'>
+            <h2>
+                About Us            </h2>
+            <ul>
+                <li>
+                    <a href="/five-star-gift-ideas" target="_blank">Five Star Give Ideas AI Tool</a>
+                </li>
+                <li>
+                    <a href="https://www.underluckystars.com/save-our-stars" target="_blank">#SaveOurStars</a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/underluckystars/" target="_blank">Facebook</a>
+                </li>
+                <li>
+                    <a href="https://instagram.com/underluckystars" target="_blank">Instagram</a>
+                </li>
+                <li>
+                    <a href="/en/press">Press room</a>
+                </li>
+                <li>
+                    <a href="https://www.underluckystars.com/blog" target="_blank">Blog</a>
+                </li>
+                                <li>
+                    <a href="https://www.underluckystars.com/stories" target="_blank">Your Stories</a>
+                </li>
+                                                                                                <li>
+                            <a href="https://www.underluckystars.com/es" target="_blank">Under Lucky Stars en Español</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/de" target="_blank">Under Lucky Stars auf Deutsch</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/fr" target="_blank">Under Lucky Stars en Français</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/it" target="_blank">Under Lucky Stars in Italiano</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/pt" target="_blank">Under Lucky Stars em Português</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/ja" target="_blank">Under Lucky Stars 日本語</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/hu" target="_blank">Under Lucky Stars magyarul</a>
+                        </li>
+                                                </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Legal            </h2>
+            <ul>
+                <li>
+                    <a href="/en/terms-of-service">Terms of Service</a>
+                </li>
+                <li>
+                    <a href="/en/privacy-policy">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="/en/return-policy">Return Policy</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Help            </h2>
+            <ul>
+                <li>
+                    <a href="/en/faq">FAQ</a>
+                </li>
+                                <li>
+                    <a href="https://support.underluckystars.com/" target="_blank">Support Center</a>
+                </li>
+                                <li>
+                    <a href="mailto:support@underluckystars.com">Email Us</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Our Products            </h2>
+            <ul>
+                <li>
+                    <a href="/en/how-it-works">How it works</a>
+                </li>
+                <li>
+                    <a href="/en/astronomically-verified">Astronomically Verified</a>
+                </li>
+                <li>
+                    <a href="/en/reviews">Reviews</a>
+                </li>
+            </ul>
+        </div>
+
+                        <div class='footer-section'>
+            <h2>
+                Occasions            </h2>
+            <ul>
+                <li>
+                    <a href="/en/mom">Star Maps For Moms</a>
+                </li>
+                <li>
+                    <a href="/en/number-one-gift">Star Maps For Couples</a>
+                </li>
+                <li>
+                    <a href="/en/birthday">Star Maps For Birthdays</a>
+                </li>
+                <li>
+                    <a href="/en/birthday">Star Maps For Babies</a>
+                </li>
+                <li>
+                    <a href="/en/wedding">Star Maps For Weddings</a>
+                </li>
+                <li>
+                    <a href="/en/engagement">Star Maps For Engagement</a>
+                </li>
+                <li>
+                    <a href="/en/anniversary">Star Maps For Anniversaries</a>
+                </li>
+            </ul>
+        </div>
+                    </div>
+    <div id="footer-badges">
+        <div id="card-issuers">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/visa.png" width="64" height="40" alt="Visa" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/mastercard.png" width="64" height="40" alt="MasterCard" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/maestro.png" width="64" height="40" alt="Maestro" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/discover.png" width="64" height="40" alt="Discover" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/paypal.png" width="64" height="40" alt="PayPal" />
+        </div>
+
+        <div id="carbon-neutral">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/leaf.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/leaf@2x.png 2x" alt="Carbon Neutral" />
+            <a href="/climate" target="_blank">Carbon Neutral</a>
+        </div>
+    </div>
+</footer>
+    </div>
+
+    <div id="popout-menu">
+
+    <a href="/en/">Home</a>
+
+    <a href="/en/designer">Star map designer</a>
+
+    <a href="/en/how-it-works">How it works</a>
+
+    <a href="/en/reviews">Reviews</a>
+
+    <a href="/en/astronomically-verified">Astronomically Verified</a>
+
+    <a href="/en/faq">FAQ</a>
+
+    <a href="/en/contact-us-form">Contact Us</a>
+
+    <hr />
+
+                <a href="https://www.underluckystars.com/fr/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/fr-flag.svg" alt="French">
+            <span>En Français</span>
+        </a>
+                <a href="https://www.underluckystars.com/de/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/de-flag.svg" alt="German">
+            <span>Auf Deutsch</span>
+        </a>
+                <a href="https://www.underluckystars.com/hu/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/hu-flag.svg" alt="Hungarian">
+            <span>Magyarul</span>
+        </a>
+                <a href="https://www.underluckystars.com/it/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/it-flag.svg" alt="Italian">
+            <span>In Italiano</span>
+        </a>
+            <a href="https://www.underluckystars.com/ja/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+        <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/jp-flag.svg" alt="Japanese">
+        <span>日本語</span>
+        </a>            <a href="https://www.underluckystars.com/pt/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/pt-flag.svg" alt="Portuguese">
+            <span>Em Português</span>
+        </a>
+                <a href="https://www.underluckystars.com/es/switch?r=reviews_list&amp;p%5Bpage%5D=1&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/es-flag.svg" alt="Spanish">
+            <span>En Español</span>
+        </a>
+    </div>
+
+
+        <script>
+	        window.uls = window.uls || {};
+	        window.uls.ajaxPrefix = '/en';
+	        window.uls.trackingId = 'G-LSBK82Y0LK';
+        </script>
+
+                        <script crossorigin="anonymous" type="text/javascript" src="https://d3j4c7e2o820k1.cloudfront.net/js/155db98-0faab4d.js"></script>
+        
+        
+        <script>
+            window.addEventListener('error', function(e) {
+                gtag('event', 'exception', {
+                    'description': e.message
+                });
+            });
+        </script>
+
+                    <!-- Start of underluckystars Zendesk Widget script -->
+            <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","underluckystars.zendesk.com");
+                /*]]>*/</script>
+            <!-- End of underluckystars Zendesk Widget script -->
+
+            <script>
+                function initZendesk() {
+                    var nonEnglish = false;
+                    var chatSuppressed = false;
+
+                    if (document.body.classList) {
+                        chatSuppressed = document.body.classList.contains('no-chat');
+                    }
+                    if (nonEnglish) {
+                        chatSuppressed = true;
+                    }
+
+                    window.zESettings = {
+                        analytics: true,
+                        chat: {
+                            suppress: chatSuppressed,
+                            notifications: {
+                                mobile: {
+                                    disable: true
+                                }
+                            }
+                        }
+                    };
+
+                    chatSuppressInTitle(chatSuppressed);
+
+                    if (window.zE) {
+                        zE('webWidget:on', 'chat:status', function(status) {
+                            if ('offline' === status || chatSuppressed) {
+
+                                zE('webWidget', 'updateSettings', {
+                                    webWidget: {
+                                        helpCenter: {
+                                            suppress: false
+                                        },
+                                        contactForm: {
+                                            suppress: false
+                                        }
+                                    }
+                                });
+
+                                                                zE('webWidget', 'helpCenter:setSuggestions', {labels: ['landing']});
+                                
+                            } else {
+
+                                zE('webWidget', 'updateSettings', {
+                                    webWidget: {
+                                        helpCenter: {
+                                            suppress: true
+                                        },
+                                        contactForm: {
+                                            suppress: true
+                                        }
+                                    }
+                                });
+                            }
+
+                            chatSuppressInTitle(chatSuppressed);
+                        });
+
+                        zE(function () {
+                            zE.setLocale("en-US");
+                        });
+                    }
+                }
+
+                function chatSuppressInTitle(suppress) {
+                    if (suppress) {
+                        document.title = document.title.replace(' ★', '');
+                        document.title = document.title + ' ★';
+                    } else {
+                        document.title = document.title.replace(' ★', '');
+                    }
+                }
+
+                var hideEnd = dataLayer && dataLayer.hide && dataLayer.hide.end;
+                if (hideEnd) {
+                    var timeout;
+                    dataLayer.hide.end = function() {
+                        window.clearTimeout(timeout);
+                        initZendesk();
+                        hideEnd();
+                    };
+                    timeout = window.setTimeout(dataLayer.hide.end, 4000);
+                } else {
+                    initZendesk();
+                }
+            </script>
+
+        
+    </body>
+</html>

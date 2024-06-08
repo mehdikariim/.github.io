@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>Are our star maps accurate? - Under Lucky Stars</title>
+        <meta name="description" content="We are the only star map manufacturer with a third-party astronomical audit to verify the accuracy of our maps."/>
+                
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@400&display=swap" rel="stylesheet">
+
+                                <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/454a62b-cc31bc9.css" />
+                
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="/manifest.json">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="p:domain_verify" content="a8500106e5f0a9916dbba166430c68be"/>
+
+                <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@underluckystars">
+        <meta name="twitter:title" content="Under Lucky Stars">
+        <meta name="twitter:description" content="We make beautiful star maps showing the alignment of the stars in a place and date chosen by you. Birthday, engagement, first date.">
+        <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/examples/1@2x.png">
+        
+                <!-- Open Graph data -->
+        <meta property="og:title" content="Under Lucky Stars" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://www.underluckystars.com/en/astronomically-verified" />
+        <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/examples/1@2x.png" />
+        <meta property="og:description" content="We make beautiful star maps showing the alignment of the stars in a place and date chosen by you. Birthday, engagement, first date." />
+        <meta property="og:site_name" content="Under Lucky Stars" />
+        
+        <link rel="canonical" href="https://www.underluckystars.com/en/astronomically-verified" />
+
+        <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "lwgnlz24zi");
+</script>
+
+
+        
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+        <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+        <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+        
+
+        <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+        <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+        <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+        <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+        <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+        <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+        <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+    </head>
+    <body >
+
+                <div id="content-wrapper">
+
+        <div id="top-promo">
+        ✨ Enjoy up to <span class="top-promo-discount">38%</span> off and free shipping!    </div>
+    <script>
+        document.body.classList.add('top-promo-on');
+    </script>
+
+<div id="desktop-header">
+    <div id="desktop-header-content">
+        <a id="logo" href="/en/">
+            <img id="logo-image" src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/logo-new-trademark@2x.png" />
+        </a>
+        <div id="menu">
+            <a href="/en/how-it-works">How it works</a>
+
+            <a href="/en/reviews">Reviews</a>
+
+            <a class="unimportant" href="/en/astronomically-verified">Astronomically Verified</a>
+
+            <a href="/en/faq">FAQ</a>
+
+            <a href="/en/contact-us-form">Contact Us</a>
+        </div>
+            <a class="cart-indicator-placeholder" href="/en/your-cart" title="Your Cart" style="display: none"></a>
+
+<script type="text/javascript">
+    (function() {
+        function updateBody(rootElement) {
+            if (rootElement.querySelector('.cart-indicator-icon-item-count')) {
+                document.body.classList.add('cart-has-items');
+            } else {
+                document.body.classList.remove('cart-has-items');
+            }
+        }
+
+        window.uls = window.uls || {};
+        if (window.uls.cartIconListenerAttached) {
+            return;
+        }
+        window.uls.cartIconListenerAttached = true;
+
+        function update() {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/en/cart-icon', true);
+            xhr.onload = function () {
+                var container = document.createElement('div');
+                container.innerHTML = this.responseText;
+                var rootElement = container.firstElementChild;
+
+                if (!rootElement) {
+                    return;
+                }
+
+                var placeholders = document.querySelectorAll('.cart-indicator-icon, .cart-indicator-placeholder');
+                for (var i = 0; i < placeholders.length; i++) {
+                    var placeholder = placeholders[i];
+                    if (i > 0) {
+                        rootElement = rootElement.cloneNode(true);
+                    }
+                    placeholder.parentNode.insertBefore(rootElement, placeholder);
+                    placeholder.parentNode.removeChild(placeholder);
+                }
+
+                updateBody(rootElement);
+            };
+
+            xhr.send();
+        }
+
+        window.addEventListener('pageshow', update);
+        window.setInterval(update, 10000);
+
+        updateBody(document);
+    }());
+
+</script>
+
+    </div>
+</div>
+
+<div id="menu-bar">
+    <div id="menu-logo">
+        <a href="/en/">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/small-logo-black.svg" alt="Under Lucky Stars" />
+            <img id="menu-logo-color" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/small-logo-color.svg" alt="Under Lucky Stars" />
+        </a>
+    </div>
+    <h2 id="brand">
+        <a href="/en/">
+            Under Lucky Stars<span>&reg;</span>
+        </a>
+    </h2>
+
+        <a class="cart-indicator-placeholder" href="/en/your-cart" title="Your Cart" style="display: none"></a>
+
+<script type="text/javascript">
+    (function() {
+        function updateBody(rootElement) {
+            if (rootElement.querySelector('.cart-indicator-icon-item-count')) {
+                document.body.classList.add('cart-has-items');
+            } else {
+                document.body.classList.remove('cart-has-items');
+            }
+        }
+
+        window.uls = window.uls || {};
+        if (window.uls.cartIconListenerAttached) {
+            return;
+        }
+        window.uls.cartIconListenerAttached = true;
+
+        function update() {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/en/cart-icon', true);
+            xhr.onload = function () {
+                var container = document.createElement('div');
+                container.innerHTML = this.responseText;
+                var rootElement = container.firstElementChild;
+
+                if (!rootElement) {
+                    return;
+                }
+
+                var placeholders = document.querySelectorAll('.cart-indicator-icon, .cart-indicator-placeholder');
+                for (var i = 0; i < placeholders.length; i++) {
+                    var placeholder = placeholders[i];
+                    if (i > 0) {
+                        rootElement = rootElement.cloneNode(true);
+                    }
+                    placeholder.parentNode.insertBefore(rootElement, placeholder);
+                    placeholder.parentNode.removeChild(placeholder);
+                }
+
+                updateBody(rootElement);
+            };
+
+            xhr.send();
+        }
+
+        window.addEventListener('pageshow', update);
+        window.setInterval(update, 10000);
+
+        updateBody(document);
+    }());
+
+</script>
+
+
+    <a id="hamburger-menu-icon">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/hamburger-menu.svg" alt="Menu" />
+    </a>
+    <a id="hamburger-menu-close-icon">
+        <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/simpler/hamburger-menu-close.svg" alt="Close" />
+    </a>
+</div>
+
+
+        <section id="how-it-works">
+
+        <h1>Are our star maps accurate?</h1>
+
+        <p>
+            Sometimes we get questions about the accuracy of our star charts. After all, it's hard for laymen to
+ verify if the constellations of a custom-made star map really represent the sky above you
+ in the moment you selected.        </p>
+        <p>
+            We have also seen fake or inauthentic star map knock-offs popping up after we launched our product back in 2016.        </p>
+
+        <style>
+
+            @media only screen and (min-width : 768px) {
+                #tom-photo {
+                    float: right;
+                    width: auto;
+                    max-height: 20em;
+                    border-bottom: 2px solid white;
+                    border-left: 2px solid white;
+                    box-shadow: -5px 5px 0 #2E3B65;
+                    margin-left: 1em;
+                }
+                #tom-photo-mobile {
+                    display: none;
+                }
+            }
+
+            @media only screen and (max-width : 767px) {
+                #tom-photo-mobile {
+                    display: block;
+                    width: auto;
+                    max-height: 50vh;
+                    border-bottom: 2px solid white;
+                    box-shadow: 0px 5px 0 #2E3B65;
+                    margin: 1em auto;
+                }
+                #tom-photo {
+                    display: none;
+                }
+            }
+
+        </style>
+
+        <p>
+            <img id="tom-photo" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/tom-barclay-nasa.jpg" />
+            The simplest way to check the accuracy is designing a map using your current location and time,
+ then compare the real-time preview on our website with the sky above you. Of course this is not always practical
+ because it has to be dark outsides and even during the night, light pollution in most cities makes
+ it hard to see more than half a dozen stars.        </p>
+        <p>
+            So, we thought we'd remove any doubt and hired a professional astronomer to audit our maps.        </p>
+
+        <p>
+            <strong><a href="http://dr.tombarclay.com" target="_blank">Dr Tom Barclay</a></strong> is a PhD in
+ Astrophysics and he's currently working for NASA as a research scientist in their TESS mission,
+ looking for Earth-like planets orbiting distant stars. He's really cool. We asked Tom to audit
+ our star maps and verify that they are accurate, given a place and date selected.
+            <img id="tom-photo-mobile" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/tom-barclay-nasa.jpg" />
+        </p>
+
+        <p>
+            Tom carefully compared our star maps to results independently calculated by him and performed
+ a code review on our star charging algorithms, to verify that you are always getting an accurate
+ star map for the most important moments of your life. This helps you avoid fake or inauthentic products.        </p>
+
+        <p>You can read his <a target="_blank" href="/files/under-lucky-stars-audit-v2.pdf">full assessment here &#x2750;</a>.            The short version: they are accurate, making Under Lucky Stars the only independently verified star map maker.</p>
+
+        <div class="seo-cta no-borders">
+            <a href="/en/designer">Design Your Star Map Now</a>
+        </div>
+
+        <p><a href="/en/"><img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/room.jpg" style="max-width: 1000px; width: 100%; height: auto;" /></a></p>
+
+    </section>
+
+    <script type="text/javascript">
+        gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+    </script>
+
+
+    <footer>
+    <div id="footer-links">
+        <div class='footer-section'>
+            <h2>
+                About Us            </h2>
+            <ul>
+                <li>
+                    <a href="/five-star-gift-ideas" target="_blank">Five Star Give Ideas AI Tool</a>
+                </li>
+                <li>
+                    <a href="https://www.underluckystars.com/save-our-stars" target="_blank">#SaveOurStars</a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/underluckystars/" target="_blank">Facebook</a>
+                </li>
+                <li>
+                    <a href="https://instagram.com/underluckystars" target="_blank">Instagram</a>
+                </li>
+                <li>
+                    <a href="/en/press">Press room</a>
+                </li>
+                <li>
+                    <a href="https://www.underluckystars.com/blog" target="_blank">Blog</a>
+                </li>
+                                <li>
+                    <a href="https://www.underluckystars.com/stories" target="_blank">Your Stories</a>
+                </li>
+                                                                                                <li>
+                            <a href="https://www.underluckystars.com/es" target="_blank">Under Lucky Stars en Español</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/de" target="_blank">Under Lucky Stars auf Deutsch</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/fr" target="_blank">Under Lucky Stars en Français</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/it" target="_blank">Under Lucky Stars in Italiano</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/pt" target="_blank">Under Lucky Stars em Português</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/ja" target="_blank">Under Lucky Stars 日本語</a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.underluckystars.com/hu" target="_blank">Under Lucky Stars magyarul</a>
+                        </li>
+                                                </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Legal            </h2>
+            <ul>
+                <li>
+                    <a href="/en/terms-of-service">Terms of Service</a>
+                </li>
+                <li>
+                    <a href="/en/privacy-policy">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="/en/return-policy">Return Policy</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Help            </h2>
+            <ul>
+                <li>
+                    <a href="/en/faq">FAQ</a>
+                </li>
+                                <li>
+                    <a href="https://support.underluckystars.com/" target="_blank">Support Center</a>
+                </li>
+                                <li>
+                    <a href="mailto:support@underluckystars.com">Email Us</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class='footer-section'>
+            <h2>
+                Our Products            </h2>
+            <ul>
+                <li>
+                    <a href="/en/how-it-works">How it works</a>
+                </li>
+                <li>
+                    <a href="/en/astronomically-verified">Astronomically Verified</a>
+                </li>
+                <li>
+                    <a href="/en/reviews">Reviews</a>
+                </li>
+            </ul>
+        </div>
+
+                        <div class='footer-section'>
+            <h2>
+                Occasions            </h2>
+            <ul>
+                <li>
+                    <a href="/en/mom">Star Maps For Moms</a>
+                </li>
+                <li>
+                    <a href="/en/number-one-gift">Star Maps For Couples</a>
+                </li>
+                <li>
+                    <a href="/en/birthday">Star Maps For Birthdays</a>
+                </li>
+                <li>
+                    <a href="/en/birthday">Star Maps For Babies</a>
+                </li>
+                <li>
+                    <a href="/en/wedding">Star Maps For Weddings</a>
+                </li>
+                <li>
+                    <a href="/en/engagement">Star Maps For Engagement</a>
+                </li>
+                <li>
+                    <a href="/en/anniversary">Star Maps For Anniversaries</a>
+                </li>
+            </ul>
+        </div>
+                    </div>
+    <div id="footer-badges">
+        <div id="card-issuers">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/visa.png" width="64" height="40" alt="Visa" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/mastercard.png" width="64" height="40" alt="MasterCard" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/maestro.png" width="64" height="40" alt="Maestro" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/discover.png" width="64" height="40" alt="Discover" />
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/card-issuers/paypal.png" width="64" height="40" alt="PayPal" />
+        </div>
+
+        <div id="carbon-neutral">
+            <img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/leaf.png" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/leaf@2x.png 2x" alt="Carbon Neutral" />
+            <a href="/climate" target="_blank">Carbon Neutral</a>
+        </div>
+    </div>
+</footer>
+    </div>
+
+    <div id="popout-menu">
+
+    <a href="/en/">Home</a>
+
+    <a href="/en/designer">Star map designer</a>
+
+    <a href="/en/how-it-works">How it works</a>
+
+    <a href="/en/reviews">Reviews</a>
+
+    <a href="/en/astronomically-verified">Astronomically Verified</a>
+
+    <a href="/en/faq">FAQ</a>
+
+    <a href="/en/contact-us-form">Contact Us</a>
+
+    <hr />
+
+                <a href="https://www.underluckystars.com/fr/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/fr-flag.svg" alt="French">
+            <span>En Français</span>
+        </a>
+                <a href="https://www.underluckystars.com/de/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/de-flag.svg" alt="German">
+            <span>Auf Deutsch</span>
+        </a>
+                <a href="https://www.underluckystars.com/hu/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/hu-flag.svg" alt="Hungarian">
+            <span>Magyarul</span>
+        </a>
+                <a href="https://www.underluckystars.com/it/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/it-flag.svg" alt="Italian">
+            <span>In Italiano</span>
+        </a>
+            <a href="https://www.underluckystars.com/ja/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+        <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/jp-flag.svg" alt="Japanese">
+        <span>日本語</span>
+        </a>            <a href="https://www.underluckystars.com/pt/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/pt-flag.svg" alt="Portuguese">
+            <span>Em Português</span>
+        </a>
+                <a href="https://www.underluckystars.com/es/switch?r=astronomically_verified&amp;tsid=33739dd1-cfad-4a65-bd4e-3bb5599391d7">
+            <img src='data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; /&gt;' lazy-src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/newLanding/es-flag.svg" alt="Spanish">
+            <span>En Español</span>
+        </a>
+    </div>
+
+
+        <script>
+	        window.uls = window.uls || {};
+	        window.uls.ajaxPrefix = '/en';
+	        window.uls.trackingId = 'G-LSBK82Y0LK';
+        </script>
+
+                        <script crossorigin="anonymous" type="text/javascript" src="https://d3j4c7e2o820k1.cloudfront.net/js/155db98-0faab4d.js"></script>
+        
+        
+        <script>
+            window.addEventListener('error', function(e) {
+                gtag('event', 'exception', {
+                    'description': e.message
+                });
+            });
+        </script>
+
+                    <!-- Start of underluckystars Zendesk Widget script -->
+            <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","underluckystars.zendesk.com");
+                /*]]>*/</script>
+            <!-- End of underluckystars Zendesk Widget script -->
+
+            <script>
+                function initZendesk() {
+                    var nonEnglish = false;
+                    var chatSuppressed = false;
+
+                    if (document.body.classList) {
+                        chatSuppressed = document.body.classList.contains('no-chat');
+                    }
+                    if (nonEnglish) {
+                        chatSuppressed = true;
+                    }
+
+                    window.zESettings = {
+                        analytics: true,
+                        chat: {
+                            suppress: chatSuppressed,
+                            notifications: {
+                                mobile: {
+                                    disable: true
+                                }
+                            }
+                        }
+                    };
+
+                    chatSuppressInTitle(chatSuppressed);
+
+                    if (window.zE) {
+                        zE('webWidget:on', 'chat:status', function(status) {
+                            if ('offline' === status || chatSuppressed) {
+
+                                zE('webWidget', 'updateSettings', {
+                                    webWidget: {
+                                        helpCenter: {
+                                            suppress: false
+                                        },
+                                        contactForm: {
+                                            suppress: false
+                                        }
+                                    }
+                                });
+
+                                                                zE('webWidget', 'helpCenter:setSuggestions', {labels: ['landing']});
+                                
+                            } else {
+
+                                zE('webWidget', 'updateSettings', {
+                                    webWidget: {
+                                        helpCenter: {
+                                            suppress: true
+                                        },
+                                        contactForm: {
+                                            suppress: true
+                                        }
+                                    }
+                                });
+                            }
+
+                            chatSuppressInTitle(chatSuppressed);
+                        });
+
+                        zE(function () {
+                            zE.setLocale("en-US");
+                        });
+                    }
+                }
+
+                function chatSuppressInTitle(suppress) {
+                    if (suppress) {
+                        document.title = document.title.replace(' ★', '');
+                        document.title = document.title + ' ★';
+                    } else {
+                        document.title = document.title.replace(' ★', '');
+                    }
+                }
+
+                var hideEnd = dataLayer && dataLayer.hide && dataLayer.hide.end;
+                if (hideEnd) {
+                    var timeout;
+                    dataLayer.hide.end = function() {
+                        window.clearTimeout(timeout);
+                        initZendesk();
+                        hideEnd();
+                    };
+                    timeout = window.setTimeout(dataLayer.hide.end, 4000);
+                } else {
+                    initZendesk();
+                }
+            </script>
+
+        
+    </body>
+</html>

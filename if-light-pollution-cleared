@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>Clear Sky at Night: If Light Pollution Cleared | Under Lucky Stars</title>
+    <meta name="description" content="We reimagined skyline photos from across the globe, to reveal what the skies would look like if they were free from light pollution.">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.underluckystars.com/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="https://www.underluckystars.com/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.underluckystars.com/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://www.underluckystars.com/manifest.json">
+    <link rel="mask-icon" href="https://www.underluckystars.com/safari-pinned-tab.svg" color="#5bbad5">
+
+    <meta property="og:title" content="Clear Sky at Night: If Light Pollution Cleared | Under Lucky Stars">
+    <meta property="og:url" content="https://www.underluckystars.com/if-light-pollution-cleared">
+    <meta property="og:image" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-social-share-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="800">
+    <meta property="og:description" content="We reimagined skyline photos from across the globe, to reveal what the skies would look like if they were free from light pollution.">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@underluckystars">
+    <meta name="twitter:title" content="Clear Sky at Night: If Light Pollution Cleared | Under Lucky Stars">
+    <meta name="twitter:description" content="We reimagined skyline photos from across the globe, to reveal what the skies would look like if they were free from light pollution.">
+    <meta name="twitter:image:src" content="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-social-share-image.jpg">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+            <link rel="stylesheet" href="https://d3j4c7e2o820k1.cloudfront.net/css/55f719d-ed2a320.css" />
+    
+    <link rel="canonical" href="https://www.underluckystars.com/if-light-pollution-cleared" />
+
+    
+
+<!-- Global site tag (gtag.js) - AdWords: 867529107 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867529107"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-867529107', {
+        allow_enhanced_conversions:true
+    });
+    gtag('config', 'G-LSBK82Y0LK', {
+	    allow_enhanced_conversions: true,
+	    anonymize_ip: true,
+	    send_page_view: false
+            });
+
+    
+    gtag('set', 'linker', {
+        'domains': [
+            'underluckystars.com',
+            'underluckystars.de',
+            'underluckystars.fr',
+            'underluckystars.es',
+            'underluckystars.hu',
+            'underluckystars.jp',
+            'underluckystars.pt',
+            'underluckystars.it'
+        ]
+    });
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-WD5DG8M"></script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '782857011853426', []);
+        fbq('init', '788297019927737', []);
+    
+    var fbPageViewEventId = Math.random().toString(36).substring(7);
+    fbq('track', 'PageView', {}, {eventID: fbPageViewEventId});
+
+    (function () {
+        var request = new XMLHttpRequest();
+        var eventFormData = new FormData();
+        eventFormData.append('eventId', fbPageViewEventId);
+        request.open('POST', "\/en\/track-fb-pv", true);
+        request.send(eventFormData);
+    }());
+
+    </script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function() {
+        if (window.URL && window.URLSearchParams) {
+            var url = new URL(window.location);
+            var searchParams = new URLSearchParams(url.search);
+
+            var campaign = searchParams.get('utm_campaign');
+            var source = searchParams.get('utm_source');
+            var medium = searchParams.get('utm_medium');
+            var content = searchParams.get('utm_content');
+            var term = searchParams.get('utm_term');
+
+            if (campaign) {
+                fbq('track', 'ViewContent', {'content_name': 'campaign_' + campaign.replace(' ', '_')});
+            }
+            if (source) {
+                fbq('track', 'ViewContent', {'content_name': 'source_' + source.replace(' ', '_')});
+            }
+            if (medium) {
+                fbq('track', 'ViewContent', {'content_name': 'medium_' + medium.replace(' ', '_')});
+            }
+            if (content) {
+                fbq('track', 'ViewContent', {'content_name': 'content_' + content.replace(' ', '_')});
+            }
+            if (term) {
+                fbq('track', 'ViewContent', {'content_name': 'term_' + term.replace(' ', '_')});
+            }
+        }
+    }());
+</script>
+
+
+    <!-- Reddit Conversion Pixel -->
+<script>
+    !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+    rdt('init','t2_1ico7y9c');
+    rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+    
+
+    <script type='text/javascript'>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','eda2b568-c489-4298-9afc-850b0d216edd', []);
+    snaptr('track','PAGE_VIEW');
+</script>
+
+
+    <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+        )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+        ttq.load('BVRL17JP3MGBRD7S1DR0');
+
+                ttq.enableCookie();
+        ttq.page();
+
+        var ttPageViewEventId = Math.random().toString(36).substring(7);
+        ttq.track('Browse', {}, {event_id: ttPageViewEventId});
+
+        (function () {
+            var request = new XMLHttpRequest();
+            var eventFormData = new FormData();
+            eventFormData.append('eventId', ttPageViewEventId);
+            request.open('POST', "\/en\/track-tt-pv", true);
+            request.send(eventFormData);
+        }());
+    }(window, document, 'ttq');
+</script>
+
+
+    <!-- Pinterest Tag -->
+<script>
+    !function(e){if(!window.pintrk){window.pintrk = function () {
+        window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+        n=window.pintrk;n.queue=[],n.version="3.0";var
+        t=document.createElement("script");t.async=!0,t.src=e;var
+        r=document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2612474376513', {em: ""});
+    pintrk('page');
+
+    pintrk('track', 'pagevisit');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?event=init&tid=2612474376513&pd[em]=&noscript=1" />
+</noscript>
+
+
+    <!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o3hl0');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17356527"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+    <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '8279f1b0ba62495c83ab658ed9d2024e');
+        qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/8279f1b0ba62495c83ab658ed9d2024e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+    <script>!function(){try{!function(t,i){if(!i.version){window.tatari=i,i.init=function(t,n){var e=function(t,n){i[n]=function(){t.push([n].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){e(i,t)}),i._i=t,i.config=n,i.pageview()},i.version="1.2.1";var n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://d2hrivdxn8ekm8.cloudfront.net/tag-manager/bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02-latest.js";var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}}(document,window.tatari||[])}catch(t){console.log(t)}}();tatari.init('bfe8fef2-4e8a-4580-844b-7f1ffbe4ee02');</script>
+
+
+</head>
+<body>
+<div id="app">
+    <header>
+        <a href="https://www.underluckystars.com/en"><img src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/logo.52cbecf5.png" alt="Under Lucky Stars"></a>
+        <nav>
+            <ul>
+                <li>
+                    <button>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+                            <g>
+                                <g transform="rotate(-90 14.5 14.5)" fill="none" stroke="#fff" stroke-width="3">
+                                    <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+                                    <circle cx="14.5" cy="14.5" r="13"/>
+                                </g>
+                                <g>
+                                    <path d="M15.026 11.061l4.729 4.729a.831.831 0 010 1.179l-.786.786a.831.831 0 01-1.179 0L14.438 14.4l-3.352 3.355a.831.831 0 01-1.179 0l-.786-.786a.831.831 0 010-1.179l4.73-4.729a.827.827 0 011.175 0z" fill="#fff"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </li>
+                <li>
+                    <button>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+                            <g>
+                                <g transform="rotate(90 14.5 14.5)" fill="none" stroke="#fff" stroke-width="3">
+                                    <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+                                    <circle cx="14.5" cy="14.5" r="13"/>
+                                </g>
+                                <g>
+                                    <path d="M13.974 17.939L9.245 13.21a.831.831 0 010-1.179l.786-.786a.831.831 0 011.179 0l3.352 3.355 3.352-3.355a.831.831 0 011.179 0l.786.786a.831.831 0 010 1.179l-4.73 4.729a.827.827 0 01-1.175 0z" fill="#fff"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="home">
+            <div class="_content">
+                <h1>Clear Night Sky</h1>
+                <a class="js-scroll-down">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+                        <g>
+                            <g transform="rotate(90 14.5 14.5)" fill="none" stroke="#fff" stroke-width="3">
+                                <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+                                <circle cx="14.5" cy="14.5" r="13"/>
+                            </g>
+                            <g>
+                                <path d="M13.974 17.939L9.245 13.21a.831.831 0 010-1.179l.786-.786a.831.831 0 011.179 0l3.352 3.355 3.352-3.355a.831.831 0 011.179 0l.786.786a.831.831 0 010 1.179l-4.73 4.729a.827.827 0 01-1.175 0z" fill="#fff"/>
+                            </g>
+                        </g>
+                    </svg>
+                </a>
+            </div>
+        </section>
+        <section class="intro">
+            <div class="_content">
+                <h2>If Light Pollution Cleared</h2>
+                <p>Whether it’s simply gazing up at the stars, staying up late to catch a glimpse of a pink moon or cracking out the telescope in the hopes of witnessing the big meteor shower, humans have been mesmerized by the beauty of the night sky for thousands of years. </p>
+                <p>The night sky is one of nature’s most beautiful creations but as cities expand and populations increase, so does the demand for artificial lighting such as street lights. Whilst practical and essential for day to day living, this lighting affects <a href="https://www.underluckystars.com/save-our-stars" target="_parent">our view of the sky</a> with the naked eye, and it is now impossible to see the Milky Way in large cities and metropolitan areas due to the light pollution it creates.</p>
+                <p>But what would a clear sky look like?</p>
+                <p>We compiled skyline photos taken by photographers across 27 locations and reimagined them to reveal what the skies could look like across the globe if they were free from light pollution. </p>
+                <p>Marvel at some of the most stunning skylines across the world, take a breath, and drink in the beauty of a clear night sky. Happy star-gazing!</p>
+                <a class="js-scroll-down">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+                        <g>
+                            <g transform="rotate(90 14.5 14.5)" fill="none" stroke="#fff" stroke-width="3">
+                                <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+                                <circle cx="14.5" cy="14.5" r="13"/>
+                            </g>
+                            <g>
+                                <path d="M13.974 17.939L9.245 13.21a.831.831 0 010-1.179l.786-.786a.831.831 0 011.179 0l3.352 3.355 3.352-3.355a.831.831 0 011.179 0l.786.786a.831.831 0 010 1.179l-4.73 4.729a.827.827 0 01-1.175 0z" fill="#fff"/>
+                            </g>
+                        </g>
+                    </svg>
+                </a>
+            </div>
+        </section>
+        <section class="slider" id="barcelona">
+            <h2>Barcelona</h2>
+            <p>Spain</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-no-stars-mobile.f94060d6.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-no-stars-web.c91245ad.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-no-stars-web.c91245ad.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-stars-mobile.67410c91.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-stars-web.c16efdf5.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-barcelona-stars-web.c16efdf5.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="beijing">
+            <h2>Beijing</h2>
+            <p>China</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-no-stars-mobile.f6a98a81.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-no-stars-web.05908bd2.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-no-stars-web.05908bd2.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-stars-mobile.25a0c1ab.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-stars-web.999710f2.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-beijing-stars-web.999710f2.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="berlin">
+            <h2>Berlin</h2>
+            <p>Germany</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-no-stars-mobile.2839fefa.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-no-stars-web.fa9f54f3.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-no-stars-web.fa9f54f3.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-stars-mobile.f4b13387.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-stars-web.d958fe1d.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-berlin-stars-web.d958fe1d.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="buenos-aires">
+            <h2>Buenos Aires</h2>
+            <p>Argentina</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-no-stars-mobile.b8c9d09d.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-no-stars-web.da1e56a5.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-no-stars-web.da1e56a5.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-stars-mobile.74f582b9.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-stars-web.bba9a87d.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-buenos-aires-stars-web.bba9a87d.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="cairo">
+            <h2>Cairo</h2>
+            <p>Egypt</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-no-stars-mobile.5c0b00f5.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-no-stars-web.5a9bf236.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-no-stars-web.5a9bf236.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-stars-mobile.207f3b1a.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-stars-web.914b63a9.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cairo-stars-web.914b63a9.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="cape-town">
+            <h2>Cape Town</h2>
+            <p>South Africa</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-no-stars-mobile.4b808d87.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-no-stars-web.33f5b140.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-no-stars-web.33f5b140.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-stars-mobile.3bb563d0.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-stars-web.270bf8fa.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-cape-town-stars-web.270bf8fa.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="chicago">
+            <h2>Chicago</h2>
+            <p>USA</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-no-stars-mobile.d51dbf8a.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-no-stars-web.3a302e05.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-no-stars-web.3a302e05.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-stars-mobile.7f33b406.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-stars-web.dd621146.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-chicago-stars-web.dd621146.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="delhi">
+            <h2>Delhi</h2>
+            <p>India</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-no-stars-mobile.bea9deea.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-no-stars-web.044e26c4.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-no-stars-web.044e26c4.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-stars-mobile.074ff8e4.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-stars-web.31f7e72c.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-delhi-stars-web.31f7e72c.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="dubai">
+            <h2>Dubai</h2>
+            <p>United Arab Emirates</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-no-stars-mobile.c6b1f977.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-no-stars-web.03b373a6.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-no-stars-web.03b373a6.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-stars-mobile.37d9e984.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-stars-web.0471f004.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-dubai-stars-web.0471f004.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="hong-kong">
+            <h2>Hong Kong</h2>
+            <p>China</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-no-stars-mobile.5486e8d5.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-no-stars-web.b1b82813.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-no-stars-web.b1b82813.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-stars-mobile.807651ae.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-stars-web.d01b091f.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-hong-kong-stars-web.d01b091f.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="houston">
+            <h2>Houston</h2>
+            <p>USA</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-no-stars-mobile.364b6488.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-no-stars-web.fc7fb401.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-no-stars-web.fc7fb401.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-stars-mobile.a82855d8.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-stars-web.dcec2b34.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-houston-stars-web.dcec2b34.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="lisbon">
+            <h2>Lisbon</h2>
+            <p>Portugal</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-no-stars-mobile.c92de12a.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-no-stars-web.e8cc6b7e.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-no-stars-web.e8cc6b7e.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-stars-mobile.898d318c.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-stars-web.04ab6a8d.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-lisbon-stars-web.04ab6a8d.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="london">
+            <h2>London</h2>
+            <p>United Kingdom</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-no-stars-mobile.430d0b41.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-no-stars-web.15f4a96c.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-no-stars-web.15f4a96c.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-stars-mobile.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-stars-web.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-london-stars-web.596f91ef.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="los-angeles">
+            <h2>Los Angeles</h2>
+            <p>USA</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-no-stars-mobile.0e2710da.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-no-stars-web.31feeb49.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-no-stars-web.31feeb49.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-stars-mobile.0958123b.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-stars-web.a8bcd966.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-los-angeles-stars-web.a8bcd966.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="miami">
+            <h2>Miami</h2>
+            <p>USA</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-no-stars-mobile.73339dbe.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-no-stars-web.f047da4c.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-no-stars-web.f047da4c.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-stars-mobile.95f8b3d8.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-stars-web.8e2d4b5e.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-miami-stars-web.8e2d4b5e.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="milan">
+            <h2>Milan</h2>
+            <p>Italy</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-no-stars-mobile.155830a5.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-no-stars-web.112d943c.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-no-stars-web.112d943c.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-stars-mobile.e61de34b.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-stars-web.8377cef5.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-milan-stars-web.8377cef5.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="montreal">
+            <h2>Montreal</h2>
+            <p>Canada</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-no-stars-mobile.71c486dd.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-no-stars-web.4f262d16.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-no-stars-web.4f262d16.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-stars-mobile.11ec8375.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-stars-web.3d777581.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-montreal-stars-web.3d777581.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="new-york">
+            <h2>New York</h2>
+            <p>USA</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-no-stars-mobile.5fcf0b84.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-no-stars-web.ed804822.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-no-stars-web.ed804822.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-stars-mobile.f99fe47c.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-stars-web.9591fef6.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-new-york-stars-web.9591fef6.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="paris">
+            <h2>Paris</h2>
+            <p>France</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-no-stars-mobile.eec93226.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-no-stars-web.84fd2a47.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-no-stars-web.84fd2a47.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-stars-mobile.99f74a29.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-stars-web.14281eb3.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-paris-stars-web.14281eb3.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="rio-de-janeiro">
+            <h2>Rio De Janeiro</h2>
+            <p>Brazil</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-no-stars-mobile.383f840b.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-no-stars-web.e126e6be.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-no-stars-web.e126e6be.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-stars-mobile.b7f31772.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-stars-web.7ec62355.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rio-de-janiero-stars-web.7ec62355.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="rotterdam">
+            <h2>Rotterdam</h2>
+            <p>Netherlands</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-no-stars-mobile.2448726a.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-no-stars-web.9f264fbb.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-no-stars-web.9f264fbb.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-stars-mobile.3e801154.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-stars-web.aab406b6.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-rotterham-stars-web.aab406b6.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="seoul">
+            <h2>Seoul</h2>
+            <p>South Korea</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-no-stars-mobile.85bf1614.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-no-stars-web.7a8c0eed.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-no-stars-web.7a8c0eed.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-stars-mobile.35c9fbb6.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-stars-web.f99b038d.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-seoul-stars-web.f99b038d.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="singapore">
+            <h2>Singapore</h2>
+            <p>Asia</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-no-stars-mobile.c16348fd.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-no-stars-web.228cf5aa.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-no-stars-web.228cf5aa.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-stars-mobile.5bc9562a.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-stars-web.d5cf5012.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-singapore-stars-web.d5cf5012.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="sydney">
+            <h2>Sydney</h2>
+            <p>Australia</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-no-stars-mobile.f44fcd45.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-no-stars-web.16435543.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-no-stars-web.16435543.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-stars-mobile.08f91fe5.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-stars-web.06ffa074.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-sydney-stars-web.06ffa074.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="tokyo">
+            <h2>Tokyo</h2>
+            <p>Japan</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-no-stars-mobile.1bf33625.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-no-stars-web.f4947129.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-no-stars-web.f4947129.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-stars-mobile.70d689ea.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-stars-web.bde0a029.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-tokyo-stars-web.bde0a029.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+        <section class="slider" id="toronto">
+            <h2>Toronto</h2>
+            <p>Canada</p>
+            <div class="bal-container">
+                <div class="bal-after">
+                    <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-no-stars-mobile.e66a4f47.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-no-stars-web.9706eca8.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-no-stars-web.9706eca8.jpg">
+                    <div class="bal-label">BORTLE: Class 8-9</div>
+                </div>
+                <div class="bal-before">
+                    <div class="bal-before-inset">
+                        <img loading="lazy" srcset="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-stars-mobile.8a708f46.jpg 1200w,https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-stars-web.efcb87d3.jpg 1920w" sizes="(min-width: 1200px) 1920px, 1200px" src="https://d3j4c7e2o820k1.cloudfront.net/assets/img/light-pollution/light-pollution-toronto-stars-web.efcb87d3.jpg">
+                        <div class="bal-label">BORTLE: Class 1-2</div>
+                    </div>
+                </div>
+                <div class="bal-handle"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <button>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38">
+                <g>
+                    <g>
+                        <g transform="rotate(90 19 19)" fill="none" stroke="#fff" stroke-width="3">
+                            <circle cx="19" cy="19" r="19" stroke="none"/>
+                            <circle cx="19" cy="19" r="17.5"/>
+                        </g>
+                    </g>
+                    <path d="M20.875 27h-3.4V14.32h3.4zm-3.6-15.961a1.668 1.668 0 01.51-1.254 1.915 1.915 0 011.389-.492 1.919 1.919 0 011.383.492 1.658 1.658 0 01.516 1.254 1.663 1.663 0 01-.52 1.261 1.924 1.924 0 01-1.377.492A1.924 1.924 0 0117.8 12.3a1.663 1.663 0 01-.523-1.261z" fill="#fff"/>
+                </g>
+            </svg>
+        </button>
+        <ul>
+            <li>
+                <button title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?text='+escape('Clear Sky at Night: If Light Pollution Cleared | Under Lucky Stars '+window.location.href),'sharer','toolbar=0,status=0,width=600,height=460');">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.53 28.874">
+                        <path d="M34.549.534a14.6 14.6 0 01-4.629 1.768 7.3 7.3 0 00-12.421 6.649A20.7 20.7 0 012.474 1.334a7.3 7.3 0 002.256 9.733 7.249 7.249 0 01-3.3-.913v.092a7.294 7.294 0 005.848 7.148 7.315 7.315 0 01-3.292.124 7.3 7.3 0 006.809 5.063 14.625 14.625 0 01-9.053 3.12 15 15 0 01-1.738-.1 20.636 20.636 0 0011.174 3.274c13.408 0 20.74-11.107 20.74-20.74 0-.316-.008-.63-.021-.942a14.82 14.82 0 003.637-3.773 14.57 14.57 0 01-4.187 1.148A7.315 7.315 0 0034.549.534z" fill="#fff"/>
+                    </svg>
+                </button>
+            </li>
+            <li>
+                <button title="Share on Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u='+escape(window.location.href),'sharer','toolbar=0,status=0,width=548,height=325');">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.659 35.931">
+                        <path d="M12.112 35.931v-16.39h5.5l.823-6.388h-6.324V9.075c0-1.85.513-3.11 3.165-3.11h3.382V.252A45.365 45.365 0 0013.73 0C8.853 0 5.514 2.977 5.514 8.443v4.711H-.001v6.388h5.518v16.389z" fill="#fff"/>
+                    </svg>
+                </button>
+            </li>
+        </ul>
+    </footer>
+    <div class="methodology">
+        <h2>What is light pollution?</h2>
+        <p>Light pollution refers to the obtrusive effects of excessive artificial lighting. Usually referring to outdoor lighting, light pollution is generally caused by man-made lighting systems, such as street lights. </p>
+        <p>This washes out the starlight in the night sky, preventing the naked eye from being able to see the stars clearly. Not only that, but light pollution can also interfere with astronomical research.</p>
+        <h2>The Bortle Scale</h2>
+        <p>The night sky’s brightness in a particular location is measured using The Bortle Scale. The Bortle Scale is a numeric scale consisting of nine-levels, which quantifies the astronomical observability of the stars and any interference caused by light pollution.</p>
+        <p>The images featuring a dark sky are the view of the city’s skyline now, which are all rated at an 8-9 on the Bortle Scale. This means that the skies here are brilliantly lit, so most of the formed constellations are completely invisible to the naked eye, masked by artificial light. </p>
+        <p>We have reimagined these images, editing them to create a clear sky which would class as a 1-2 on the Bortle Scale. This is what would be visible if there was no light pollution - so even galaxies can be seen!</p>
+        <h2>Embed Link</h2>
+        <p>Use this embed code to add to your website:</p>
+        <code>&lt;iframe width="800px" height="640" frameborder="0" src="https://www.underluckystars.com/if-light-pollution-cleared"&gt;&lt;/iframe&gt;</code>
+        <button>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38">
+                <g>
+                    <g>
+                        <path d="M21.528 18.955l6.146-6.146a.808.808 0 000-1.143l-1.429-1.429a.808.808 0 00-1.143 0l-6.146 6.146-6.146-6.146a.808.808 0 00-1.143 0l-1.429 1.429a.808.808 0 000 1.143l6.146 6.146-6.146 6.146a.808.808 0 000 1.143l1.429 1.429a.808.808 0 001.143 0l6.146-6.146 6.146 6.146a.808.808 0 001.143 0l1.429-1.429a.808.808 0 000-1.143z" fill="#3a3b3f"/>
+                    </g>
+                    <g>
+                        <g>
+                            <g transform="rotate(90 19 19)" fill="none" stroke="#3a3b3f" stroke-width="3">
+                                <circle cx="19" cy="19" r="19" stroke="none"/>
+                                <circle cx="19" cy="19" r="17.5"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </button>
+    </div>
+</div>
+
+    <script crossorigin="anonymous" type="text/javascript" src="https://d3j4c7e2o820k1.cloudfront.net/js/7058440-340ca92.js"></script>
+
+<script type="text/javascript">
+    gtag('event', 'page_view', { send_to: 'G-LSBK82Y0LK' });
+
+    fbq('trackCustom', 'Article', {article: 'light-pollution'});
+</script>
+
+</body>
+</html>
